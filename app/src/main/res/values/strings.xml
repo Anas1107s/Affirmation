@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmation</string>
+    <string name="affirmation_1">I am doing my best every day.</string>
+    <string name="affirmation_2">I believe in myself and my abilities.</string>
+    <string name="affirmation_3">I am proud of how far I’ve come.</string>
+    <string name="affirmation_4">I am calm, confident, and in control.</string>
+    <string name="affirmation_5">I learn from my mistakes and grow stronger.</string>
+    <string name="affirmation_6">I am worthy of success and happiness.</string>
+    <string name="affirmation_7">I trust the process of life.</string>
+    <string name="affirmation_8">I choose to focus on the positive.</string>
+    <string name="affirmation_9">I am enough just as I am.</string>
+    <string name="affirmation_10">I welcome today with energy and gratitude.</string>
+</resources>
+
